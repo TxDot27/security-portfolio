@@ -1,0 +1,14 @@
+# Gitleaks configuration for the security-portfolio repo
+# Built-in rule set, plus an allowlist for files that reliably false-positive.
+
+title = "Security Portfolio Gitleaks Config"
+
+[extend]
+  useDefault = true
+
+[allowlist]
+  description = "Repo false positive allowlist"
+  paths = [
+    '''\.gitleaks\.toml$''',
+    '''\.git/''',
+  ]
