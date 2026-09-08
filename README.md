@@ -4,6 +4,7 @@ Documented cloud security investigations, built in a live Azure tenant
 (Mad Hat Labs, a multi-user training environment).
 
 Target role: Cloud Security Analyst 
+
 Currently: I.S.S.E | Remote
 
 Contact: tavianpaul27@gmail.com · https://www.linkedin.com/in/tavian-walker-944874272/
