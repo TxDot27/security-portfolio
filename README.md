@@ -11,7 +11,7 @@ Contact: tavianpaul27@gmail.com · https://www.linkedin.com/in/tavian-walker-944
 ## Investigations
 | # | Title | Focus | Write-up |
 |---|-------|-------|----------|
-| 1 | Operation Dead Deploy | Governance forensics, deployment audit trail | [Read](operation-dead-deploy/operation-dead-deploy.md) |
+| 1 | Operation Dead Deploy | Governance forensics, deployment audit trail | [Week 1](operation-dead-deploy/operation-dead-deploy.md) |
 | 2 | The Stolen Identity | App registration attack kill chain (Entra ID) | coming, week 2 |
 | 3 | Privilege Audit | RBAC and least privilege | coming, week 3 |
 | 4 | Spin Up and Lock Down | Compute attack surface | coming, week 4 |
