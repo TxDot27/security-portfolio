@@ -21,7 +21,7 @@ Operating in a live multi-user Azure training tenant with reader access.
 
   ![Stage 3: resource group deployment history](images/stage-3.png)
 
-4. This step I checked what policies have applied and what the compliancy overview looks like. This shows me if the policies are being applied correctly and what policy effects are in place. I found that non-compliance has been found and when I looked further into the non-compliant policy. The details on the non-compliant policy showed why the resources were allowed to be created. The policy effect was set to audit.
+4. This step I checked what policies have applied and what the compliancy overview looks like. This shows me if the policies are being applied correctly and what policy effects are in place. I found that non-compliance has been identified. The details on the non-compliant policy showed why the resources were allowed to be created. The policy effect was set to audit.
 
   ![Stage 4: policy compliance overview](images/stage-4.png)
 
